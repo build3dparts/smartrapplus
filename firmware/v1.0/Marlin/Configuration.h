@@ -481,7 +481,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
    #define DEFAULT_AXIS_STEPS_PER_UNIT   {153,153,8000,170}  // smartrap : version 1.8degv{194,194,4000,85} robotdigg.shaft adaptor,fishline big
 #endif
 #ifdef motors18gt2
-   #define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,400,150}  // smartrap : version 1.8degv{194,194,4000,85} robotdigg.shaft adaptor,fishline big
+   #define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,400,150}  // smartrap : version 1.8degv{194,194,4000,85} robotdigg.shaft adaptor,fishline big
 #endif
 #ifdef motors09gt2
    #define DEFAULT_AXIS_STEPS_PER_UNIT   {160,160,8000,170}  // smartrap : version 1.8degv{194,194,4000,85} robotdigg.shaft adaptor,fishline big
